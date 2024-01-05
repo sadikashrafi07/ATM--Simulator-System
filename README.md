@@ -5,11 +5,11 @@
 
 <img src="https://i.ibb.co/BVFBKWw/Screenshot-2024-01-05-at-7-41-44-PM.png" width="250"/> &nbsp;&nbsp; <img src="https://i.ibb.co/7rT5ymC/Screenshot-2024-01-03-at-1-58-48-PM.png" width="250"/> &nbsp;&nbsp; <img src="https://i.ibb.co/3yTp3S3/Screenshot-2024-01-03-at-1-59-39-PM.png" width="250"/>
 
-<img src="https://i.ibb.co/tC50MZm/Screenshot-2023-12-25-at-12-41-28-PM.png" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/vL5ZBcY/Screenshot-2023-12-23-at-12-36-35-AM.png" width="400"/>
+<img src="https://i.ibb.co/CVXGTgX/Screenshot-2024-01-05-at-6-39-04-PM.png" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/PhNMn2L/Screenshot-2024-01-05-at-6-39-17-PM.png" width="400"/>
 
-<img src="https://i.ibb.co/PYK7Z8G/Screenshot-2023-12-23-at-12-38-05-AM.png" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/wckPyqC/Screenshot-2023-12-25-at-12-48-07-PM.png" width="400"/>
+<img src="https://i.ibb.co/qgRM0gj/Screenshot-2024-01-05-at-6-39-30-PM.png" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/h1X9j4c/Screenshot-2024-01-05-at-6-39-42-PM.png" width="400"/>
 
-<img src="https://i.ibb.co/tPhDZ4m/Screenshot-2023-12-23-at-12-37-09-AM.png" width="400"/> &nbsp;&nbsp;<img src="https://i.ibb.co/gmVL2nj/Screenshot-2023-12-25-at-1-19-11-PM.png" width="400"/>
+<img src="https://i.ibb.co/3hkq4jm/Screenshot-2024-01-05-at-6-39-58-PM.png" width="400"/> &nbsp;&nbsp;<img src="https://i.ibb.co/QbXcbvy/Screenshot-2024-01-05-at-9-37-11-PM.png" width="400"/>
 
 # Bank Management System
 The "Bank Account Management System" project aims to provide users with the ability to perform basic banking tasks on the internet, such as managing their accounts, handling cash transactions, and checking their account details from the comfort of their homes or offices. This document outlines the objectives, methods, administrative modules, customer obligations, and future prospects of the system. The goal of the project is to enhance the system by improving its design, making it easy to incorporate new features later, and ensuring smooth and efficient operation.
