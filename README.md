@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/wRvxKHC/Screenshot-2024-01-05-at-7-51-51-PM.png" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/yf3G9hB/Screenshot-2024-01-05-at-9-12-38-PM.png" width="400"/>
 
 <img src="https://i.ibb.co/BVFBKWw/Screenshot-2024-01-05-at-7-41-44-PM.png" width="250"/> &nbsp;&nbsp; <img src="https://i.ibb.co/7rT5ymC/Screenshot-2024-01-03-at-1-58-48-PM.png" width="250"/> &nbsp;&nbsp; <img src="https://i.ibb.co/3yTp3S3/Screenshot-2024-01-03-at-1-59-39-PM.png" width="250"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl1dW51dDV5OWUxamg4azIzd2FsbmxrcHlrNDhwcjVjN2RsbmtubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzpoF47z3BlAiIJtlC/source.gif" height="50%" width="50%"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl1dW51dDV5OWUxamg4azIzd2FsbmxrcHlrNDhwcjVjN2RsbmtubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzpoF47z3BlAiIJtlC/source.gif" height="50%" width="50%"> &nbsp;&nbsp; <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVlZWZiZWZ5dGo4M3ZrOW05eHdyamJsMXZxcnZ2b3R5Z2J5cnB6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8p58xS9pAUsQ3ngni2/giphy.gif" height="50%" width="50%"> 
 
 <img src="https://i.ibb.co/CVXGTgX/Screenshot-2024-01-05-at-6-39-04-PM.png" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/PhNMn2L/Screenshot-2024-01-05-at-6-39-17-PM.png" width="400"/>
 
