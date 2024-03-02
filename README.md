@@ -93,7 +93,7 @@ The Bank Account Management System is a successful project aimed at meeting the 
 
 
 ## Feedback
-We value your input and are committed to providing you with the best possible experience. If you have any suggestions, feedback, or if there's an idea you'd like me to consider, please don't hesitate to reach out to me at angadimohammadsadiq@gmail.com.
+I value your input and am committed to providing you with the best possible experience. If you have any suggestions, feedback, or if there's an idea you'd like me to consider, please don't hesitate to reach out to me at angadimohammadsadiq@gmail.com.
 
 
 
